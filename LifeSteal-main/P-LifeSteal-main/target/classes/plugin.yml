@@ -1,0 +1,9 @@
+name: P-LifeSteal
+version: '1.9.3'
+main: eu.vibemc.lifesteal.Main
+api-version: 1.18
+authors: [ devPrzemuS ]
+description: Plugin for stealing lives, inspired by Polish server "Anarchia SMP".
+website: https://ls.przemus.xyz/
+softdepend:
+  - PlaceholderAPI
